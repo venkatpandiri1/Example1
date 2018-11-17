@@ -1,6 +1,6 @@
 Jenkinsfile (Declarative Pipeline)
 pipeline {
-    touch abc
+    touch abc.txt
             }
         }
     }
