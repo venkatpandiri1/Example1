@@ -1,0 +1,17 @@
+task clean {
+    doLast {
+        println 'clean!'
+    }
+}
+
+task build {
+    doLast {
+        println 'build!'
+    }
+}
+
+task distribution {
+    doLast {
+        println 'distribution!'
+    }
+}
